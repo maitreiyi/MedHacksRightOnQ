@@ -335,7 +335,7 @@ VideoView vid;
         }
     }
     public void sendMessage() {
-        Intent intent = new Intent(MainActivity.this, FirstFragment.class);
+        Intent intent = new Intent(MainActivity.this, NewMainAct.class);
         startActivity(intent);
     }
     /*@Override

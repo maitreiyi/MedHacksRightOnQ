@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020674230263",
+    "firebase_url": "https://medhacksrightonq.firebaseio.com",
+    "project_id": "medhacksrightonq",
+    "storage_bucket": "medhacksrightonq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020674230263:android:b9d6caef7dce70f95290f2",
+        "android_client_info": {
+          "package_name": "com.example.qrscanner1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020674230263-ricguq2b1dgm4hu2vrfm1lvmbs0tp8ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrscanner1",
+            "certificate_hash": "725a190ee4af4413489907c5c08e3552870da987"
+          }
+        },
+        {
+          "client_id": "1020674230263-h38jvs6f7bnid7ikah4pli13dg463uia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccEMiWDNf3hBbhE8shI8BvskNsIHO1jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020674230263-h38jvs6f7bnid7ikah4pli13dg463uia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
